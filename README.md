@@ -734,17 +734,11 @@ SOFTWARE.
 
 ### 💬 **Get Help**
 
-- 📧 **Email**: [support@cloudnotes.dev](mailto:support@cloudnotes.dev)
-- 💬 **Discord**: [Join our community](https://discord.gg/cloudnotes)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/cloud-native-notes-app/issues)
-- 📚 **Documentation**: [Wiki](https://github.com/your-username/cloud-native-notes-app/wiki)
+- 📧 **Email**: [sajidrahman@dal.ca](mailto:sajidrahman@dal.ca)
+
 
 ### 🌐 **Connect With Us**
-
-- 🐦 **Twitter**: [@CloudNotesApp](https://twitter.com/CloudNotesApp)
-- 💼 **LinkedIn**: [Cloud Notes Team](https://linkedin.com/company/cloud-notes)
-- 📝 **Blog**: [Technical Blog](https://blog.cloudnotes.dev)
-- 🎥 **YouTube**: [Video Tutorials](https://youtube.com/cloudnotes)
+- 💼 **LinkedIn**: [Cloud Notes Team](https://www.linkedin.com/in/mohamed-sajid-9a681021a/)
 
 ---
 
